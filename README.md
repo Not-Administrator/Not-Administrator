@@ -1,3 +1,3 @@
 # AL Monaco
 
-Hobby projects and random stuff I tinker with. I build things for myself first. If something I make can save someone else a bit of time, I’d like to share it.
+Hobby projects and random stuff I build. I make things I’d want to use. Some of them might come in handy for you too.
