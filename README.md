@@ -1,3 +1,5 @@
 # AL Monaco
 
-I’m interested in how systems behave and where trust breaks. I work in IT and security, with a particular interest in identity, access control and the small automations that make systems easier to investigate.
+I like finding out what systems let you get away with.
+
+Sometimes that’s an access control rabbit hole. Sometimes it’s spending a Saturday figuring out where a downloader lost half my catalogue.
